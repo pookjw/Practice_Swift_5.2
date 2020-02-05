@@ -5,6 +5,8 @@ Practice of new features for Swift 5.2. [Xcode 11.4 Beta Release Notes (February
 ## callAsFunction
 
 ```swift
+import Cocoa
+
 /*
  You can call values of types that declare func callAsFunction methods like functions. The call syntax is shorthand for applying func callAsFunction methods.
 */
